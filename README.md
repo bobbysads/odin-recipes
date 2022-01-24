@@ -1,1 +1,2 @@
 # odin-recipes
+This project is part of The Odin Project's introduction to HTML. Goals of this project include the correct use of the HTML tags, elements and attributes previously introduced in TOP lessons.
